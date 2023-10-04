@@ -8,7 +8,7 @@ python3 -m pip install --user cookiecutter
 
 Following [1]
 
-[1](https://cookiecutter.readthedocs.io/en/stable/installation.html)
+[https://cookiecutter.readthedocs.io/en/stable/installation.html](https://cookiecutter.readthedocs.io/en/stable/installation.html)
 
 To use this, modify the {{cookiecutter.directory_name}}/{{cookiecutter.file_name}}.py file to contain the code you want to template. Then modify the cookiecutter.json file to contain the default values you want to change. Then run the following command, from within the directory you want to create a new project in (in this example, /tmp):
 
@@ -30,5 +30,4 @@ which creates a directory called Hello, with a file called Howdy.py, which conta
 print("Hello, Julie!")
 ```
 
-```
-
+This tutorial is based on [https://github.com/BruceEckel/HelloCookieCutter1/blob/master/Readme.rst](https://github.com/BruceEckel/HelloCookieCutter1/blob/master/Readme.rst).
