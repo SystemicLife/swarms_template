@@ -2,7 +2,7 @@ from langchain.llms import OpenAIChat
 from swarms.agents import OmniModalAgent
 
 
-llm = OpenAIChat(model_name="gpt-3.5")
+llm = OpenAIChat(model_name="gpt-3.5-turbo-0613")
 
 agent = OmniModalAgent(llm)
 
