@@ -1,5 +1,5 @@
 {
-    "directory_name": "Hello",
-    "file_name": "Howdy",
-    "greeting_recipient": "Julie"
+    "directory_name": "Agora",
+    "file_name": "Acropolis_video",
+    "starting_prompt: "Generate a brief video of the future Acropolis in the style of Viridian."
 }
